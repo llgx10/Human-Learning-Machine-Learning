@@ -3,9 +3,9 @@ Thế kỷ 21 được cho là thế kỷ của “Biển và đại dương”.
 <h3>Bước 1: Import các thư viện cần thiết</h3>
  <img src="https://github.com/llgx10/Human-Learning-Machine-Learning/blob/main/Logistic%20Regression/img/Picture1.png">
 <h3>Bước 2: Import file csv vào chương trình</h3>
- 
+ https://github.com/llgx10/Human-Learning-Machine-Learning/blob/main/Logistic%20Regression/img/Picture2.png
 <h3>Bước 3: sử dụng hàm glm để tính mô hình hồi quy logistis</h3>
- 
+ https://github.com/llgx10/Human-Learning-Machine-Learning/blob/main/Logistic%20Regression/img/Picture3.png
 <h3>Dựa vào hình trên, ta có</h3>
 - Hệ số β1 của biến gdp (x) 36x10^(-4)
 - Hệ số β0 là -0.45
