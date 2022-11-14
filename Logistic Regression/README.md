@@ -1,10 +1,10 @@
-<h2>Bước 1: Import các thư viện cần thiết
+<h3>Bước 1: Import các thư viện cần thiết</h3>
  
-<h2>Bước 2: Import file csv vào chương trình
+<h3>Bước 2: Import file csv vào chương trình</h3>
  
-<h2>Bước 3: sử dụng hàm glm để tính mô hình hồi quy logistis
+<h3>Bước 3: sử dụng hàm glm để tính mô hình hồi quy logistis</h3>
  
-<h2>Dựa vào hình trên, ta có
+<h3>Dựa vào hình trên, ta có</h3>
 - Hệ số β1 của biến gdp (x) 36x10^(-4)
 - Hệ số β0 là -0.45
 - Kết quả phương trình hồi qui logistic đơn biến có được là: 
